@@ -3,6 +3,9 @@ margin: 0px;
 text-align: center;
 font-family: 'Merriweather', serif;
 color: #40514e;
+@media screen and (max:700px){
+    .a-prop{width:50%}
+    }
 }
 
 h1{
